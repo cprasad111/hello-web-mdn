@@ -1,0 +1,19 @@
+p {
+   color: red;
+}
+
+ul {
+   color: green;
+}
+
+li {
+   color: blue;
+}
+
+h1 {
+   margin: 10px;
+   padding: 20px 10px 20px 30px;
+
+   border-color: red;
+   border-width: 5px;
+}
